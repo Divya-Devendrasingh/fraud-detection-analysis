@@ -36,6 +36,21 @@ The dataset includes:
 
 ---
 
+## 📂 Project Structure
+```
+fraud-detection-analysis/
+│
+├── analysis.ipynb
+├── report.pdf
+├── presentation.pdf
+└── README.md 
+```
+- `analysis.ipynb` → Complete analysis and model building  
+- `report.pdf` → Detailed project documentation  
+- `presentation.pdf` → Business presentation
+
+---
+
 ## 🔍 Analysis Approach
 
 - Data cleaning and preprocessing  
@@ -92,21 +107,6 @@ Both models were evaluated using:
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
-
----
-
-## 📂 Project Structure
-```
-fraud-detection-analysis/
-│
-├── analysis.ipynb
-├── report.pdf
-├── presentation.pdf
-└── README.md 
-```
-- `analysis.ipynb` → Complete analysis and model building  
-- `report.pdf` → Detailed project documentation  
-- `presentation.pdf` → Business presentation
 
 ---
 
